@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taha415
+- 👋 Hi, I’m taha
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning java
 - 📫 you can't reach me
