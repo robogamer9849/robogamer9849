@@ -1,6 +1,6 @@
 - 👋 Hi, I’m taha
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java and self learning python
 - 📫 you can't reach me
 
 <!---
